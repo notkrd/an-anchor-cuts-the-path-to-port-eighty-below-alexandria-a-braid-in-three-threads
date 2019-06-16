@@ -1,3 +1,7 @@
+# An Anchor Cuts the Path to Port Eighty Below Alexandria: a Braid in Three Threads
+
+_Writing at the crossing points in a braid of 1) a history of ancient trade centering on the Aegean and Levant, 2) distributed computing theory, and 3) the physical infrastructure of contemporary networking_
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
