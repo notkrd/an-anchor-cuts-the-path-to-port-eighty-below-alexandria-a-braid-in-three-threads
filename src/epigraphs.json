@@ -1,0 +1,32 @@
+{
+    "homer": {
+        "lines": [
+            "So come now, tell me this",
+            "and speak out candidly—Whose slave are you?",
+            "Whose orchard are you tending? And tell me",
+            "the truth about this, too, so I understand-",
+            "Is this place we’ve reached really Ithaca,",
+            "as some man I just met on my way here",
+            "told me."
+        ],
+        "author": "HOMER trans. Ian Johnston",
+        "book": "Odyssey (Book 24)"
+    },
+    "cavafy": {
+        "lines": [
+            "And if you find her poor, Ithaca has not deceived you.",
+            "Wise as you have become, with so much experience,",
+            "you must already have understood what these Ithacas mean."
+        ],
+        "author": "C.P. CAVAFY trans. EDMUND KEELEY",
+        "book": "Ithaka"
+    },
+    "joyce": {
+        "lines": [
+            "<em>Was there one point on which their views were equal and negative?</em>",
+            "The influence of gaslight or electric light on the growth of adjoining paraheliotropic trees."
+        ],
+        "author": "JAMES JOYCE",
+        "book": "Ulysses"
+    }
+}
